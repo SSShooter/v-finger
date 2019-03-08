@@ -4,6 +4,7 @@ Use AlloyFinger v0.1.10
 1.0.6 performance element cache  
 1.0.7 use babel
 2.0.3 compatible with PC
+2.0.4 compatible with macOS
 
 # v-finger
 
